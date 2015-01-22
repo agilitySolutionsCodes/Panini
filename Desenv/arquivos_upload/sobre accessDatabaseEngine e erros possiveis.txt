@@ -1,0 +1,25 @@
+necessario instalar este arquivo .exe para que o upload de arquivo .xlsx funcione.
+
+Modificações no iis para que upload de arquivo excel funcione:
+2) open IIS7 manager, and open the Application Pools area. On the right sidebar, you will see an option that says "Set application pool defaults". Click it, and a window will pop up with the options.
+
+3) the second field down, which says 'Enable 32-bit applications' is probably set to FALSE by default. Simply click where it says 'false' to change it to 'true'.
+
+4) Restart your app pool (you can do this by hitting RECYCLE instead of STOP then START, which will also work).
+
+5) done, and your error message will go away.
+
+
+
+Error Message:
+Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80070005 Access is denied. (Exception from HRESULT: 0×80070005 (E_ACCESSDENIED)).
+
+Solution:
+This is a COM permissions problem.
+Start > Run > dcomcnfg (or “mmc -32? and then add the Component Services snap-in manually if you can’t find the app under step 3)
+Navigate to Component Services > Computers > My Computer > DCOM Config
+Locate the MS application giving you trouble (eg: “Microsoft Excel Application” for Excel or “Microsoft Word 97 – 2003 Document” for Word)
+Right click > Properties
+On the security tab: Select Customize under Launch and Activation Permissions and click Edit…
+Add the account under which the site is running (eg: Network Service) and assign Local Launch & Local Activation permissions
+Voila!

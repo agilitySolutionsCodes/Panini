@@ -1,0 +1,1006 @@
+﻿body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000; /*#F3F3F3;*/
+	font-weight: normal;
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	height: 100%;
+}
+
+button
+{
+	cursor: pointer;
+}
+
+hr
+{
+	color: #989797;
+	background-color: #989797;
+}
+
+.main
+{
+	background-color: #f3f3f3;
+	color: #485E88;
+	font-weight: bold;
+	height: 100%;
+	width: 100%;
+}
+
+.Logout
+{
+	color: #FFF;
+}
+
+
+.TabelaMaior
+{
+	background-color: #FFFFFF;
+	color: #000;
+	font-weight: bold;
+	width: 880px;
+	border-left: 1px solid #989797;
+	border-right: 1px solid #989797;
+	min-height: 505px;
+	max-height: 100%;
+}
+
+.TabelaMaiorLogin
+{
+	background-color: #FFFFFF;
+	color: #000;
+	font-weight: bold;
+	width: 880px;
+	border-left: 1px solid #989797;
+	border-right: 1px solid #989797;
+	min-height: 570px;
+	max-height: 100%;
+}
+
+
+
+
+.TabelaTopo
+{
+	background-color: #000000;
+	color: white;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration: none;
+	width: 859px;
+}
+
+.LinkTopo
+{
+	background-color: #272626; /* Prefissional */
+	color: #5D7B9D; /* Prefissional */
+	height: 35px;
+	width: 100%;
+	padding-top: 3px; /* border-color:  *#5D7B9D;  Prefissional */
+}
+.CaseSucesso
+{
+	width: 65%;
+	height: 550;
+	font-weight: bold;
+	background-color: #d0d0d0; /*#d9e4d6;*/
+	color: #1d2444;
+	text-decoration: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.labelVermelho
+{
+	color: #e30a10;
+}
+
+.linkSelecionado
+{
+	color: #f4aa0c;
+}
+
+.conteudo
+{
+	width: 95%;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+
+.conteudo2
+{
+	width: 100%;
+	font-weight: bold;
+	background-color: #fff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	height: 65px;
+}
+
+.conteudo2 tr td
+{
+	padding: 8px;
+}
+
+.linhaClara
+{
+	background-color: #f3f3f3;
+}
+
+.linhaEscura
+{
+	background-color: #DFE0E3;
+}
+
+.conteudoTab
+{
+	/*width: 100%;*/
+	width:845px;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px; /*line-height: 34px;*/
+	line-height: 28px;
+	text-align: left; /*margin-left:15px;*/
+	/*margin-left: 15px;*/
+}
+
+.conteudoTab tr td
+{
+	padding-left: 4px;
+}
+
+.conteudoMenor
+{
+	width: 70%;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-bottom: 30px;
+	text-align: left;
+}
+
+.Login
+{
+	width: 60%;
+	font-weight: bold;
+	background-color: #272626; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.Manager
+{
+	width: 80%;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.pdfs_maior
+{
+	width: 95%;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.Planejamento
+{
+	width: 100%;
+	font-weight: bold;
+	background-color: #ffffff; /*#d9e4d6;*/
+	color: #000000;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.Servicos
+{
+	width: 880;
+	height: 350;
+	font-weight: bold;
+	background-color: #d0d0d0; /*#d9e4d6;*/
+	color: #1d2444;
+}
+
+.Topo
+{
+	background-color: #000000;
+	height: 42px;
+	width: 100%;
+	color: #485E88;
+}
+
+
+.LinhaDivisoria
+{
+	background-color: #989797;
+	color: #F21011;
+	height: 35px;
+	width: 100%;
+}
+
+
+.LinhaDivisoria3
+{
+	background-color: #000000; /* Prefissional */
+	color: #5D7B9D; /* Prefissional */
+	height: 22px;
+	width: 100%;
+	border-top: 1px solid #989797;
+}
+
+.Titulo
+{
+	color: #FEE902;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 30px;
+	text-decoration: none;
+	width: 880px;
+	text-align: left;
+	padding: 9px 0 0 10px;
+}
+
+.formulario
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #575e7d;
+	font-size: 10px;
+	background-color: white;
+	margin-top: 7px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 14px;
+	padding-left: 7px;
+	padding-right: 7px;
+	padding-bottom: 7px;
+	width: 1000px;
+	font-weight: normal;
+}
+
+.fontVerde
+{
+	color: Green;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	background-color: #f3f3f3;
+	width: 70px;
+}
+
+.fontVerde2
+{
+	color: Green;
+	font-weight: bold;
+	font-size: 17px;
+	text-align: center;
+	background-color: #f3f3f3;
+	width: 70px;
+}
+
+.fontVermelho
+{
+	color: red;
+	font-weight: bold;
+	font-size: 15px;
+	text-align: center;
+	background-color: #f3f3f3;
+	width: 70px;
+}
+
+.fontNegrito
+{
+	font-weight: bold; /*font-size: 14px;  */
+}
+
+.InicialDireito
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	background-color: #f3f3f3;
+	color: #fd8484;
+	font-weight: bold; /*background-color: #b8b8b8;     color: #485E88;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 1px;
+}
+
+.InicialEsquerdo
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	background-color: #c0c1c4;
+	color: #000000;
+	font-weight: bold; /*background-color: #b8b8b8;     color: #485E88;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+
+.InicialCentral
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	background-color: #c9cacc;
+	color: #565659;
+	font-weight: bold; /*background-color: #b8b8b8;     color: #485E88;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 1px;
+}
+
+.InicialCentral2
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	background-color: #DFE0E3;
+	color: #565659;
+	font-weight: bold; /*background-color: #b8b8b8;     color: #485E88;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 1px;
+}
+
+.Final
+{
+	width: 100%;
+	height: 100%;
+	font-weight: bold;
+	background-color: #a8a8a9;
+	color: #ffffff;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+a
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: WHITE;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: red;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a:active
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: red;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a.link:link
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: WHITE;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a.link:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: WHITE;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+a.link:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: RED;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+a.link:active
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: RED;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.botao
+{
+	cursor: pointer;
+}
+
+.button
+{
+	border: 1px solid #cccc99;
+	font-weight: bold;
+	font-size: 15px;
+	color: #5D7B9D; /* Profissional */
+	font-family: Verdana, Arial, sans-serif;
+	background-color: Transparent;
+	border: none;
+	background-image: url("botao.gif");
+	width: auto;
+	height: 25px;
+	cursor: pointer;
+}
+
+.button:hover
+{
+}
+
+.button:active
+{
+}
+
+
+.txt
+{
+	padding-left: 10px;
+	font-size: 10px;
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.txtMenor
+{
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.Combo
+{
+	font-size: 15px;
+	color: #666666;
+}
+
+.Combo .ajax__combobox_inputcontainer
+{
+	font-size: 15px;
+	color: #666666;
+}
+
+.Combo .ajax__combobox_textboxcontainer
+{
+	font-size: 15px;
+	color: #666666;
+}
+
+.Combo .ajax__combobox_buttoncontainer
+{
+	font-size: 15px;
+	color: #666666;
+}
+
+.Combo .ajax__combobox_itemlist
+{
+	font-size: 15px;
+	color: #666666;
+}
+
+input
+{
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	color: #666666;
+}
+
+select
+{
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	color: #666666;
+}
+
+.label
+{
+	font-weight: bold;
+}
+
+.label2
+{
+	text-transform: capitalize;
+}
+
+.drop
+{
+	text-transform: capitalize;
+}
+
+.drop2
+{
+	/* grid */
+	text-transform: capitalize;
+}
+
+.textBox
+{
+	text-transform: capitalize;
+}
+
+.textBox2
+{
+	text-transform: capitalize;
+	width: 100px;
+}
+
+textArea
+{
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	color: #666666;
+}
+
+.textArea2
+{
+	width: 99.4%;
+	height: 50px;
+}
+
+.panel
+{
+	margin: 0px;
+	color: #666666;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.wizard
+{
+	font-weight: bold;
+	font-size: 15px;
+	color: #669966;
+	font-family: Verdana, Arial, sans-serif;
+	background-color: Transparent;
+	border: none;
+	background-image: url("wizard.png");
+	cursor: pointer;
+	height: 16px;
+	width: 16px;
+}
+
+.booyaosx
+{
+	font-weight: bold;
+	font-size: 15px;
+	color: #669966;
+	font-family: Verdana, Arial, sans-serif;
+	background-color: Transparent;
+	border: none;
+	background-image: url("booyaosx.png");
+	cursor: pointer;
+	height: 24px;
+	width: 24px;
+	background-repeat: no-repeat;
+}
+
+.print
+{
+	font-weight: bold;
+	font-size: 15px;
+	color: #669966;
+	font-family: Verdana, Arial, sans-serif;
+	background-color: Transparent;
+	border: none;
+	background-image: url("print.png");
+	cursor: pointer;
+	height: 24px;
+	width: 24px;
+	background-repeat: no-repeat;
+}
+
+/*  MENU  */
+
+.menuManager
+{
+	width: 880px;
+	background: url("link.gif") no-repeat;
+	height: 30px;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	float: none !important;
+}
+
+.menu
+{
+	width: 880px;
+	background: url("link.gif") no-repeat;
+	height: 30px;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	float: none !important;
+	padding-top: 7px;
+}
+
+.menu ul li
+{
+	text-align: left;
+	padding-left: 34px !important;
+}
+
+
+.level4
+{
+	left: 75% !important;
+}
+
+.staticMenuItemStyle
+{
+	color: WHITE;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.dynamicMenuItemStyle
+{
+	background-color: #000;
+	padding: 4px;
+}
+
+
+/* FIM DO MENU */
+
+.imgExcel
+{
+	vertical-align: bottom;
+}
+
+.clear
+{
+	clear: both;
+}
+
+fieldset
+{
+	margin: 1em 0px;
+	padding: 1em;
+	border: 1px solid #ccc;
+	width: 436px;
+}
+
+fieldset p
+{
+	margin: 2px 12px 10px 10px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+	display: block;
+}
+
+fieldset label.inline
+{
+	display: inline;
+}
+
+legend
+{
+	font-size: 1.1em;
+	font-weight: 600;
+	padding: 2px 4px 8px 4px;
+}
+
+input.textEntry
+{
+	width: 310px;
+	border: 1px solid #ccc;
+}
+
+input.passwordEntry
+{
+	width: 310px;
+	border: 1px solid #ccc;
+}
+
+#divLogin
+{
+	width: 90%;
+	text-align: left;
+}
+
+a.EsqueciSenha
+{
+	color: #034AF3;
+}
+
+.submitButton
+{
+	float: right;
+	width: 477px;
+}
+
+.failureNotification
+{
+	font-size: 12px;
+	color: Red;
+	text-align: left;
+	width: 99%;
+}
+
+.tabPainel
+{
+	text-align: left;
+	float: left;
+}
+
+.tabs
+{
+	text-align: left;
+}
+
+.tabs a
+{
+	color: #000 !important;
+}
+
+.ajax__tab_body
+{
+	border-left: none !important;
+	border-right: none !important;
+	padding: 17px !important;
+}
+
+.imgManager
+{
+	width: 30px;
+}
+
+.fontAzul
+{
+	color: #0c718e;
+}
+
+.fontVermelho2
+{
+	color: Red;
+}
+
+.textSize
+{
+	width: 45px;
+}
+
+.txtPequeno
+{
+	width: 115px;
+	float: right;
+	margin-right: 15px;
+	margin-top: 3px;
+}
+
+.InicialEsquerdo
+{
+	background-color: #C0C1C4;
+	color: #000000;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	height: 100%;
+	width: 100%;
+	text-align: left;
+}
+
+.InicialCentral
+{
+	background-color: #C9CACC;
+	color: #565659;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	height: 100%;
+	width: 100%;
+}
+
+.labelEdicao
+{
+	color: #272626;
+}
+
+.redBackground
+{
+	background-color: Red;
+	font-weight: bold;
+}
+
+.tabDetalheEdicao
+{
+	width: 80%;
+	padding: 0;
+	font-weight: bold;
+	background-color: #ffffff;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.font14
+{
+	font-size: 14px !important;
+}
+
+.imgLegenda
+{
+	width: 170px;
+}
+
+.imgLegEditorial
+{
+	width: 155px;
+}
+
+/* MANAGER */
+
+#frmCadastro
+{
+}
+#frmCadastro h3
+{
+	color: #666666;
+	font-size: 16px;
+	margin: 20px auto 0;
+	width: 80%;
+}
+#frmCadastro h4
+{
+	border-bottom: 1px solid #CCCCCC;
+	color: #000;
+	font-size: 16px;
+	margin: 20px auto 0;
+	padding: 10px 30px;
+	width: 80%;
+	text-align: left;
+}
+
+.tabelaManager
+{
+	margin: 0 auto;
+	padding: 15px 0 0;
+	width: 80%;
+	color: #696969;
+	font-weight: normal;
+	text-align: left;
+}
+
+
+#frmSenha fieldset
+{
+	margin: 0 auto;
+	padding: 15px 0 0;
+	width: 75%;
+	color: #696969;
+	font-weight: normal;
+	text-align: left;
+}
+
+#frmSenha fieldset, img
+{
+	border: 0 none;
+}
+
+#frmSenha h4
+{
+	border-bottom: 1px solid #CCCCCC;
+	color: #000;
+	font-size: 16px;
+	margin: 20px auto 0;
+	padding: 10px 30px;
+	width: 80%;
+	text-align: left;
+}
+
+#frmSenha fieldset label
+{
+	display: inline-block;
+	float: left;
+	margin-right: 20px;
+	text-align: right !important;
+	width: 140px;
+	padding: 0 5px;
+}
+
+#frmSenha fieldset select, #frmSenha fieldset input
+{
+	display: inline-block;
+	float: left;
+	border: 1px solid #C4DFED;
+	color: #0074B0;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	padding: 3px;
+}
+
+#frmSenha fieldset p
+{
+	clear: left;
+	display: block;
+	height: 25px;
+	line-height: 25px;
+	margin-bottom: 5px;
+}
+
+.Managertextbox
+{
+	width: 210px;
+}
+
+div.Validacao
+{
+	color: Red;
+	text-align: left;
+}
+
+#divAlteraSenha
+{
+	text-align: right;
+	width: 70%;
+}
+
+.ManagerButton
+{
+	width: 87%;
+	border-top: 1px solid #CCCCCC;
+	text-align: right;
+}
+
+#divProcessando
+{
+	background: url("..	/Imagens/carregando3.gif") no-repeat center;
+	position: fixed;
+	z-index: 99;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+/* FIM MANAGER */
+

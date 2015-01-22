@@ -1,0 +1,4105 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Panini
+</name>
+</assembly>
+<members>
+<member name="F:Panini.DatasCadastro.hdnCodigo">
+	<summary>
+hdnCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.drpLicenca">
+	<summary>
+drpLicenca control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtPE">
+	<summary>
+txtPE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtAL">
+	<summary>
+txtAL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtAP">
+	<summary>
+txtAP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtPG">
+	<summary>
+txtPG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtED">
+	<summary>
+txtED control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.txtEA">
+	<summary>
+txtEA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.btnSalvar">
+	<summary>
+btnSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DatasCadastro.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.hdnIncAlt">
+	<summary>
+hdnIncAlt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.lblDivisao">
+	<summary>
+lblDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.lblTipo">
+	<summary>
+lblTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.drpAnoPlan">
+	<summary>
+drpAnoPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.Tipo">
+	<summary>
+Tipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.Divisao">
+	<summary>
+Divisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.lblEdicao">
+	<summary>
+lblEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.drpPlan">
+	<summary>
+drpPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.drpEdicaoPlan">
+	<summary>
+drpEdicaoPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoAltConsulta.LoginUserValidationSummary">
+	<summary>
+LoginUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblEdicao">
+	<summary>
+lblEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.hdnCodPlan">
+	<summary>
+hdnCodPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.hdnDivisao">
+	<summary>
+hdnDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblMes">
+	<summary>
+lblMes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgSemaforo">
+	<summary>
+imgSemaforo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgEditorial">
+	<summary>
+imgEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblFase">
+	<summary>
+lblFase control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblDistribuicao">
+	<summary>
+lblDistribuicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgReserva">
+	<summary>
+imgReserva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblPreco">
+	<summary>
+lblPreco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblFormato">
+	<summary>
+lblFormato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblBinding">
+	<summary>
+lblBinding control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgStatusMkt">
+	<summary>
+imgStatusMkt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgStatusEditorial">
+	<summary>
+imgStatusEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblPaginas">
+	<summary>
+lblPaginas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.lblPeriod">
+	<summary>
+lblPeriod control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.pnlLegenda">
+	<summary>
+pnlLegenda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgEdit">
+	<summary>
+imgEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.imgRes">
+	<summary>
+imgRes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image6">
+	<summary>
+Image6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image7">
+	<summary>
+Image7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image4">
+	<summary>
+Image4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image5">
+	<summary>
+Image5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.Image3">
+	<summary>
+Image3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DetalheEdicao.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton1">
+	<summary>
+ImageButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton2">
+	<summary>
+ImageButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton3">
+	<summary>
+ImageButton3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton4">
+	<summary>
+ImageButton4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton5">
+	<summary>
+ImageButton5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton6">
+	<summary>
+ImageButton6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton7">
+	<summary>
+ImageButton7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.ImageButton8">
+	<summary>
+ImageButton8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialOpcoes.imgTodos">
+	<summary>
+imgTodos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.txtSenhaAntiga">
+	<summary>
+Controle txtSenhaAntiga.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.RequiredFieldValidator1">
+	<summary>
+Controle RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.txtNovaSenha">
+	<summary>
+Controle txtNovaSenha.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.RequiredFieldValidator2">
+	<summary>
+Controle RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.CompareValidator1">
+	<summary>
+Controle CompareValidator1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.txtConfSenha">
+	<summary>
+Controle txtConfSenha.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.btnConfirmar">
+	<summary>
+Controle btnConfirmar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.ValidationSummary1">
+	<summary>
+Controle ValidationSummary1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.pnlMensagem">
+	<summary>
+Controle pnlMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.AlterarSenha.oMensagem">
+	<summary>
+Controle oMensagem.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Panini.Mensagem.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Mensagem.imgIcone">
+	<summary>
+imgIcone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Mensagem.lblMensagem">
+	<summary>
+lblMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.hdnCodigo">
+	<summary>
+hdnCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.Nome">
+	<summary>
+Nome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.EmailFornecedor">
+	<summary>
+EmailFornecedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.btnSalvar">
+	<summary>
+btnSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroFornecedor.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.frmPrincipal">
+	<summary>
+frmPrincipal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.oScriptManager">
+	<summary>
+oScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.lknHome">
+	<summary>
+lknHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.lblNomeTopo">
+	<summary>
+lblNomeTopo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.imgManager">
+	<summary>
+imgManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.objLogout">
+	<summary>
+objLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerTopo.cMaster">
+	<summary>
+cMaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DateBox.txtDateBox">
+	<summary>
+txtDateBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DateBox.txtDateBox_MaskedEditExtender">
+	<summary>
+txtDateBox_MaskedEditExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.DateBox.txtDateBox_CalendarExtender">
+	<summary>
+txtDateBox_CalendarExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.pnlUsuario">
+	<summary>
+pnlUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.hdnCodigo">
+	<summary>
+hdnCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.txtDepto">
+	<summary>
+txtDepto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.RequiredFieldValidator3">
+	<summary>
+RequiredFieldValidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.oRamal">
+	<summary>
+oRamal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.lblSenha1">
+	<summary>
+lblSenha1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.txtSenha">
+	<summary>
+txtSenha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.lblSenhaConf1">
+	<summary>
+lblSenhaConf1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.txtSenhaConf">
+	<summary>
+txtSenhaConf control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.pnlPermissoes">
+	<summary>
+pnlPermissoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.grdPermissoes">
+	<summary>
+grdPermissoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.btnNovo">
+	<summary>
+btnNovo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Manager.grdUsuarios">
+	<summary>
+grdUsuarios control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Panini.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:Panini.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:Panini.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Panini.Topo.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.frmPrincipal">
+	<summary>
+frmPrincipal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.oScriptManager">
+	<summary>
+oScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.lknHome">
+	<summary>
+lknHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.lblNomeTopo">
+	<summary>
+lblNomeTopo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.imgManager">
+	<summary>
+imgManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.objLogout">
+	<summary>
+objLogout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Topo.cMaster">
+	<summary>
+cMaster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.hdnCodPlan">
+	<summary>
+hdnCodPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.hdnEdicao">
+	<summary>
+hdnEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.hdnDivisao">
+	<summary>
+hdnDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.pnlEdicoes">
+	<summary>
+pnlEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblDescricao">
+	<summary>
+lblDescricao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkJan">
+	<summary>
+lnkJan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkFev">
+	<summary>
+lnkFev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkMar">
+	<summary>
+lnkMar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkAbr">
+	<summary>
+lnkAbr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkMai">
+	<summary>
+lnkMai control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkJun">
+	<summary>
+lnkJun control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkJul">
+	<summary>
+lnkJul control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkAgo">
+	<summary>
+lnkAgo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkSet">
+	<summary>
+lnkSet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkOut">
+	<summary>
+lnkOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkNov">
+	<summary>
+lnkNov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lnkDez">
+	<summary>
+lnkDez control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.pnlSemEdicoes">
+	<summary>
+pnlSemEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblUnicoTitulo">
+	<summary>
+lblUnicoTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblUnicoPDFS">
+	<summary>
+lblUnicoPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblUnicoEdicao">
+	<summary>
+lblUnicoEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtVarejo">
+	<summary>
+txtVarejo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtAss">
+	<summary>
+txtAss control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtExp">
+	<summary>
+txtExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtBienal">
+	<summary>
+txtBienal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtDoacao">
+	<summary>
+txtDoacao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtPacote">
+	<summary>
+txtPacote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtOutros1">
+	<summary>
+txtOutros1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtOutros2">
+	<summary>
+txtOutros2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtOutros3">
+	<summary>
+txtOutros3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.txtOutros4">
+	<summary>
+txtOutros4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.btnGravar">
+	<summary>
+btnGravar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaCadastro.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPlan.txtFile">
+	<summary>
+txtFile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPlan.btnUpload">
+	<summary>
+btnUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPlan.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPlan.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.lblDivisao">
+	<summary>
+lblDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.lblTipo">
+	<summary>
+lblTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.drpAno">
+	<summary>
+drpAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.Tipo">
+	<summary>
+Tipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.Divisao">
+	<summary>
+Divisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.lblEdicao">
+	<summary>
+lblEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.drpPDFS">
+	<summary>
+drpPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.drpEdicao">
+	<summary>
+drpEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ReservaConsulta.LoginUserValidationSummary">
+	<summary>
+LoginUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.hdnCodPlan">
+	<summary>
+hdnCodPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.hdnEdicao">
+	<summary>
+hdnEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.hdnValidaTab">
+	<summary>
+hdnValidaTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.TabContainer1">
+	<summary>
+TabContainer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.tab1">
+	<summary>
+tab1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlEtapa1Outros">
+	<summary>
+pnlEtapa1Outros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblCodPanini">
+	<summary>
+lblCodPanini control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlEtapa1CodColec">
+	<summary>
+pnlEtapa1CodColec control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPDFSAlbum">
+	<summary>
+txtPDFSAlbum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCodAlbum">
+	<summary>
+txtCodAlbum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPDFSEnv">
+	<summary>
+txtPDFSEnv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCodEnv">
+	<summary>
+txtCodEnv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblDescPDFS">
+	<summary>
+lblDescPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.chkAssinatura">
+	<summary>
+chkAssinatura control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblDescDivisao">
+	<summary>
+lblDescDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblColecao">
+	<summary>
+lblColecao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.drpCategoria">
+	<summary>
+drpCategoria control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblDescTipo">
+	<summary>
+lblDescTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.drpPeriod">
+	<summary>
+drpPeriod control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblPeriod">
+	<summary>
+lblPeriod control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtAno">
+	<summary>
+txtAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblDtLancto">
+	<summary>
+lblDtLancto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtDtLancto">
+	<summary>
+txtDtLancto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlEdicoes">
+	<summary>
+pnlEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtJan">
+	<summary>
+txtJan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtFev">
+	<summary>
+txtFev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtMar">
+	<summary>
+txtMar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtAbr">
+	<summary>
+txtAbr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtMai">
+	<summary>
+txtMai control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtJun">
+	<summary>
+txtJun control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtJul">
+	<summary>
+txtJul control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtAgo">
+	<summary>
+txtAgo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtSet">
+	<summary>
+txtSet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtOut">
+	<summary>
+txtOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtNov">
+	<summary>
+txtNov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtDez">
+	<summary>
+txtDez control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnLimpar1">
+	<summary>
+btnLimpar1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnProximo1">
+	<summary>
+btnProximo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.tab2">
+	<summary>
+tab2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtArquivo">
+	<summary>
+txtArquivo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnCarregar">
+	<summary>
+btnCarregar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.imgUpload">
+	<summary>
+imgUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.hdnImgUpload">
+	<summary>
+hdnImgUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlOcultarCol">
+	<summary>
+pnlOcultarCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblFormato">
+	<summary>
+lblFormato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtFormato">
+	<summary>
+txtFormato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblPreco">
+	<summary>
+lblPreco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPreco1">
+	<summary>
+txtPreco1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.lblValReais">
+	<summary>
+lblValReais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdePag">
+	<summary>
+txtQtdePag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCustoEditorialP">
+	<summary>
+txtCustoEditorialP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCustoEditTotal">
+	<summary>
+txtCustoEditTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdeCapa">
+	<summary>
+txtQtdeCapa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdeMiolo">
+	<summary>
+txtQtdeMiolo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCapa">
+	<summary>
+txtCapa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtMiolo">
+	<summary>
+txtMiolo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlEtapa2">
+	<summary>
+pnlEtapa2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCromo">
+	<summary>
+txtCromo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtEnvelope">
+	<summary>
+txtEnvelope control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPrecoCromo">
+	<summary>
+txtPrecoCromo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPrecoEnvelope">
+	<summary>
+txtPrecoEnvelope control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdTotal">
+	<summary>
+txtQtdTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdCN">
+	<summary>
+txtQtdCN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdCE">
+	<summary>
+txtQtdCE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCromoEnv">
+	<summary>
+txtCromoEnv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtEnvPacote">
+	<summary>
+txtEnvPacote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtEnvCaixa">
+	<summary>
+txtEnvCaixa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdeAlbumPacote">
+	<summary>
+txtQtdeAlbumPacote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnLimpar2">
+	<summary>
+btnLimpar2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnVoltar2">
+	<summary>
+btnVoltar2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnProximo2">
+	<summary>
+btnProximo2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.tab3">
+	<summary>
+tab3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdSim">
+	<summary>
+rdSim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdNao">
+	<summary>
+rdNao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtBrinde">
+	<summary>
+txtBrinde control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtTipoServico">
+	<summary>
+txtTipoServico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtAcabamento">
+	<summary>
+txtAcabamento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.drpDistr">
+	<summary>
+drpDistr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.drpFase">
+	<summary>
+drpFase control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtBinding">
+	<summary>
+txtBinding control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtManuseio">
+	<summary>
+txtManuseio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.drpFornecedor">
+	<summary>
+drpFornecedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlEtapa3">
+	<summary>
+pnlEtapa3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdItalia">
+	<summary>
+rdItalia control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdBrasil">
+	<summary>
+rdBrasil control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdOutros">
+	<summary>
+rdOutros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCustoEditorial">
+	<summary>
+txtCustoEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdSimMerc">
+	<summary>
+rdSimMerc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdNaoMerc">
+	<summary>
+rdNaoMerc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPais">
+	<summary>
+txtPais control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtFormatoCol">
+	<summary>
+txtFormatoCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtQtdPagCol">
+	<summary>
+txtQtdPagCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtPapelCol">
+	<summary>
+txtPapelCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtCortesiaCol">
+	<summary>
+txtCortesiaCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.txtMioloCol">
+	<summary>
+txtMioloCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdSimCol">
+	<summary>
+rdSimCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdNaoCol">
+	<summary>
+rdNaoCol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdSimEsp">
+	<summary>
+rdSimEsp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdNaoEsp">
+	<summary>
+rdNaoEsp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdSimPoster">
+	<summary>
+rdSimPoster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.rdNaoPoster">
+	<summary>
+rdNaoPoster control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnLimpar3">
+	<summary>
+btnLimpar3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnVoltar3">
+	<summary>
+btnVoltar3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.btnSalvar">
+	<summary>
+btnSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoCadastro.dvFocus">
+	<summary>
+dvFocus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.hdnIncAlt">
+	<summary>
+hdnIncAlt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.lblDivisão">
+	<summary>
+lblDivisão control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.lblTipo">
+	<summary>
+lblTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.drpAno">
+	<summary>
+drpAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.drpPDFS">
+	<summary>
+drpPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.PlanejamentoConsulta.LoginUserValidationSummary">
+	<summary>
+LoginUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.SubMaster.MenuSource">
+	<summary>
+MenuSource control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.SubMaster.NavigationMenu">
+	<summary>
+NavigationMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.SubMaster.SiteMapPath1">
+	<summary>
+SiteMapPath1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.SubMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerSubMaster.MenuSource">
+	<summary>
+MenuSource control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerSubMaster.lblItemMenu">
+	<summary>
+lblItemMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ManagerSubMaster.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.hdnCodigo">
+	<summary>
+hdnCodigo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.txtNome">
+	<summary>
+txtNome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.btnSalvar">
+	<summary>
+btnSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.CadastroLicenciante.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.drpPesquisar">
+	<summary>
+drpPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.txtPesquisa">
+	<summary>
+txtPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.btnPesquisar">
+	<summary>
+btnPesquisar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.ConsultaPDFS.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.hdnCodPlan">
+	<summary>
+hdnCodPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.hdnEdicao">
+	<summary>
+hdnEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.hdnAlteracao">
+	<summary>
+hdnAlteracao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.hdnDivisao">
+	<summary>
+hdnDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblTitulo">
+	<summary>
+lblTitulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblFase">
+	<summary>
+lblFase control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblDistr">
+	<summary>
+lblDistr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblPreco">
+	<summary>
+lblPreco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblFormato">
+	<summary>
+lblFormato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblBinding">
+	<summary>
+lblBinding control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblPag">
+	<summary>
+lblPag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblPer">
+	<summary>
+lblPer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.drpDatas">
+	<summary>
+drpDatas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPL">
+	<summary>
+txtDPL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPPE">
+	<summary>
+txtDPPE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPAL">
+	<summary>
+txtDPAL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPAP">
+	<summary>
+txtDPAP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPPG">
+	<summary>
+txtDPPG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPED">
+	<summary>
+txtDPED control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPEA">
+	<summary>
+txtDPEA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPF2">
+	<summary>
+txtDPF2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDPREL">
+	<summary>
+txtDPREL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRL">
+	<summary>
+txtDRL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRPE">
+	<summary>
+txtDRPE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRAL">
+	<summary>
+txtDRAL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRAP">
+	<summary>
+txtDRAP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRPG">
+	<summary>
+txtDRPG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRED">
+	<summary>
+txtDRED control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDREA">
+	<summary>
+txtDREA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRF2">
+	<summary>
+txtDRF2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDRREL">
+	<summary>
+txtDRREL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAL">
+	<summary>
+txtDAL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAPE">
+	<summary>
+txtDAPE control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAAL">
+	<summary>
+txtDAAL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAAP">
+	<summary>
+txtDAAP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAPG">
+	<summary>
+txtDAPG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAED">
+	<summary>
+txtDAED control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAEA">
+	<summary>
+txtDAEA control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAF2">
+	<summary>
+txtDAF2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtDAREL">
+	<summary>
+txtDAREL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.pnlMkt">
+	<summary>
+pnlMkt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.drpMkt">
+	<summary>
+drpMkt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtMkt">
+	<summary>
+txtMkt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.pnlEditorial">
+	<summary>
+pnlEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.drpEditorial">
+	<summary>
+drpEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.txtEditorial">
+	<summary>
+txtEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.pnlEdicoes">
+	<summary>
+pnlEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkJan">
+	<summary>
+lnkJan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkFev">
+	<summary>
+lnkFev control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkMar">
+	<summary>
+lnkMar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkAbr">
+	<summary>
+lnkAbr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkMai">
+	<summary>
+lnkMai control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkJun">
+	<summary>
+lnkJun control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkJul">
+	<summary>
+lnkJul control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkAgo">
+	<summary>
+lnkAgo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkSet">
+	<summary>
+lnkSet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkOut">
+	<summary>
+lnkOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkNov">
+	<summary>
+lnkNov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lnkDez">
+	<summary>
+lnkDez control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.pnlMsgEdicoes">
+	<summary>
+pnlMsgEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblMsgEdicoes">
+	<summary>
+lblMsgEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.pnlSemEdicoes">
+	<summary>
+pnlSemEdicoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.lblUnicoEdicao">
+	<summary>
+lblUnicoEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.imgSemaforo">
+	<summary>
+imgSemaforo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.btnLimpar">
+	<summary>
+btnLimpar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.btnAprovar">
+	<summary>
+btnAprovar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.btnReprovar">
+	<summary>
+btnReprovar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.btnSalvar">
+	<summary>
+btnSalvar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoCadastro.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EsqueciSenha.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.lblDivisao">
+	<summary>
+lblDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.lblTipo">
+	<summary>
+lblTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.drpAno">
+	<summary>
+drpAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.Tipo">
+	<summary>
+Tipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.Divisao">
+	<summary>
+Divisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.RequiredFieldValidator2">
+	<summary>
+RequiredFieldValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.lblEdicao">
+	<summary>
+lblEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.drpPDFS">
+	<summary>
+drpPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.drpEdicao">
+	<summary>
+drpEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.MercadoConsulta.LoginUserValidationSummary">
+	<summary>
+LoginUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.NumberBox.txtNumberBox">
+	<summary>
+txtNumberBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.NumberBox.txtNumberBox_NumericUpDownExtender">
+	<summary>
+txtNumberBox_NumericUpDownExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.NumberBox.txtNumberBox_FilteredTextBoxExtender">
+	<summary>
+txtNumberBox_FilteredTextBoxExtender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.NumberBox.spanBotoes">
+	<summary>
+spanBotoes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPDFS.txtFile">
+	<summary>
+txtFile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPDFS.btnUpload">
+	<summary>
+btnUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPDFS.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.UploadPDFS.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.Login1.objLogin">
+	<summary>
+objLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.hdnAno">
+	<summary>
+hdnAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.hdnDivisao">
+	<summary>
+hdnDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.hdnTipo">
+	<summary>
+hdnTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.hdnProduto">
+	<summary>
+hdnProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.lblDivisao">
+	<summary>
+lblDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.lblTipo">
+	<summary>
+lblTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.drpAno">
+	<summary>
+drpAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.Ano">
+	<summary>
+Ano control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.Divisao">
+	<summary>
+Divisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.drpTipo">
+	<summary>
+drpTipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.Tipo">
+	<summary>
+Tipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.lblProduto">
+	<summary>
+lblProduto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.drpPDFS">
+	<summary>
+drpPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.btnConfirmar">
+	<summary>
+btnConfirmar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.FailureText">
+	<summary>
+FailureText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.LoginUserValidationSummary">
+	<summary>
+LoginUserValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.pnlExcel">
+	<summary>
+pnlExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.txtNomeArq">
+	<summary>
+txtNomeArq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.drpVersao">
+	<summary>
+drpVersao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.RelatorioConsulta.grdRelatorio1">
+	<summary>
+grdRelatorio1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.hdnTpEditorial">
+	<summary>
+hdnTpEditorial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.hdnFornecedor">
+	<summary>
+hdnFornecedor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.imgDivisao">
+	<summary>
+imgDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.pnlPesquisa">
+	<summary>
+pnlPesquisa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.lblAno">
+	<summary>
+lblAno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.lblDivisao">
+	<summary>
+lblDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.lblStatus">
+	<summary>
+lblStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.drpAnoPlan">
+	<summary>
+drpAnoPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Tipo">
+	<summary>
+Tipo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.drpDivisao">
+	<summary>
+drpDivisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Divisao">
+	<summary>
+Divisao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.drpStatus">
+	<summary>
+drpStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.lblPDFS">
+	<summary>
+lblPDFS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.lblEdicao">
+	<summary>
+lblEdicao control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.drpPlan">
+	<summary>
+drpPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.drpEdicaoPlan">
+	<summary>
+drpEdicaoPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.RequiredFieldValidator5">
+	<summary>
+RequiredFieldValidator5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.pnlLegenda">
+	<summary>
+pnlLegenda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Image5">
+	<summary>
+Image5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Image1">
+	<summary>
+Image1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Image2">
+	<summary>
+Image2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.Image6">
+	<summary>
+Image6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.grdItens">
+	<summary>
+grdItens control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.btnAprovar">
+	<summary>
+btnAprovar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.btnNaoAprovar">
+	<summary>
+btnNaoAprovar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.btnLiberar">
+	<summary>
+btnLiberar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.btnVoltar">
+	<summary>
+btnVoltar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.pnlMensagem">
+	<summary>
+pnlMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Panini.EditorialAprovacao.oMensagem">
+	<summary>
+oMensagem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Panini.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Panini.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Panini.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

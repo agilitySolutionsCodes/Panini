@@ -1,0 +1,144 @@
+﻿/*GridViewCSS Chrome Style*/
+.GridViewStyle {
+    font-family: Arial, Sans-Serif;
+    font-weight:normal;
+    table-layout: auto;
+    width:99%;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    overflow: auto;
+    text-align: center;
+    border: 3px solid #272626;
+}
+
+.GridViewStyle2 {
+    font-family: Arial, Sans-Serif;
+    font-weight:normal;
+    table-layout: auto;
+    width:99%;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    overflow: auto;
+    text-align: left;
+    border: 3px solid #272626;
+}
+
+.GridViewStyle3 {
+    font-family: Arial, Sans-Serif;
+    font-weight:normal;
+    table-layout: auto;
+    width:87%;
+    border-collapse: collapse;
+    text-transform: capitalize;
+    overflow: auto;
+    text-align: center;
+    border: 3px solid #272626;
+}
+
+/*Header and Pager styles*/
+.HeaderStyle, .PagerStyle /*Common Styles*/ {
+    background-position:center;
+    background-repeat:repeat-x;
+    background-color:#989797;
+	color:White;
+	font-weight:bold;
+	
+}
+
+.HeaderStyle th {
+    padding: 5px;
+    color: #ffffff;
+    text-align: center;
+    border-right: 1px solid #989797;
+}
+
+.HeaderStyle a {
+    text-decoration: none;
+    color:white;
+    display:block;
+    text-align:left;
+    font-weight:bold;
+}
+
+.HeaderStyle a:Hover {
+    text-decoration: underline;
+}
+
+.PagerStyle table {
+    text-align:center;
+    margin:auto;
+}
+
+.PagerStyle table td {
+    border:0px;
+    padding:5px;
+}
+
+.PagerStyle td {
+    border-top: #1d1d1d 1px solid;
+}
+
+.PagerStyle a {
+    color:white;
+    text-decoration:none;
+    padding:2px 10px 2px 10px;
+    /*border-top:solid 1px #777777;
+    border-right:solid 1px #333333;
+    border-bottom:solid 1px #333333;
+    border-left:solid 1px #777777;*/
+}
+
+.PagerStyle span {
+    font-weight:bold;
+    color:#FFFFFF;
+    text-decoration:none;
+    padding:2px 10px 2px 10px;
+}
+
+/*RowStyles*/
+.RowStyle
+{
+    background-color: #d1d0d0;
+    color: #272626;
+}
+
+.RowStyle td, .AltRowStyle td, .SelectedRowStyle td, .EditRowStyle td /*Common Styles*/ {
+    padding: 5px;    
+}
+
+.RowStyle td {
+    
+    border-right: 1px solid #d1d0d0;
+    border-bottom: 1px solid #d1d0d0;
+}
+
+.RowStyle td, .AltRowStyle td, .SelectedRowStyle td, .EditRowStyle td /*Common Styles*/ {
+    padding: 5px;    
+}
+
+.AltRowStyle
+{
+    background-color: #F3F3F3;
+    color: #272626;
+}
+
+
+.AltRowStyle td {
+    padding: 5px; 
+    border-right: 1px solid #F3F3F3;
+    border-bottom: 1px solid #F3F3F3;
+}
+
+.AltRowStyle td a, .RowStyle td a
+{
+    color: #272626;
+    font-weight: normal;
+}
+
+.AltRowStyle td a:hover, .RowStyle td a:hover
+{
+    font-weight: bold;
+}
+
+
+

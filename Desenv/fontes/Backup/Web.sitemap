@@ -1,0 +1,27 @@
+﻿<siteMap>
+  <siteMapNode>
+    <siteMapNode url="~/RelatorioConsulta.aspx" title="Plano Editorial"  description="Plano Editorial" accessKey="R"  />
+    <siteMapNode url="" title="|"  description=""  />
+    <siteMapNode url="~/EditorialOpcoes.aspx" title="Editorial"  description="Editorial" accessKey="E"  />
+    <siteMapNode url="" title="|"  description=""  />
+    <siteMapNode url="~/ReservaConsulta.aspx" title="Reserva De Estoque"  description="Reserva De Estoque"/>
+    <siteMapNode url="" title="|"  description=""  />
+    <siteMapNode url="~/MercadoConsulta.aspx" title="Mercado"  description="Mercado"/>
+    <siteMapNode url="" title="|"  description=""  />
+    <siteMapNode url="" title="Cadastros"  description="Cadastros">
+      <siteMapNode url="~/DatasCadastro.aspx" title="Datas"  description="Cadastro de datas" />
+      <siteMapNode url="~/CadastroFornecedor.aspx" title="Fornecedores"  description="Cadastro de Fornecedor" />
+      <siteMapNode url="~/CadastroLicenciantes.aspx" title="Licenciantes"  description="Cadastro de Licenciantes" />
+      <siteMapNode url="~/ConsultaPDFS.aspx" title="PDFS - Pesquisa"  description="Pesquisa de PDFS" />
+      <siteMapNode url="" title="Planejamento"  description= "Cadastro e Alteração de Planejamentos">
+        <siteMapNode url="~/PlanejamentoConsulta.aspx" title="Inclusão"  description="Inclusão de Planejamento" />
+        <siteMapNode url="~/PlanejamentoAltConsulta.aspx" title="Alteração"  description="Alteração de planejamento" />
+      </siteMapNode>
+    </siteMapNode>
+    <siteMapNode url="" title="|"  description=""  />
+    <siteMapNode url="" title="Uploads"  description="Uploads">
+      <siteMapNode url="~/UploadPDFS.aspx" title="PDFS"  description="PDFS" />
+      <siteMapNode url="~/UploadPlan.aspx" title="Planejamento"  description="Planejamento" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

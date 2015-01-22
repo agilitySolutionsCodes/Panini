@@ -1,0 +1,497 @@
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\Panini\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\fontes\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.2 - novo layout\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.3 - Alteracao Planejamento\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.4 - Alteracao Relatorio\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.5 - Editorial\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.7 - Novas solicitações\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.8 - Exportar Excel\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 0.9 - Novo exportar para excel\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - Versao final\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.0 - HOMOLOGACAO\obj\Debug\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\Panini.pdb
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\AjaxControlToolkit.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\AntiXSSLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\SanitizerProviders.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\Panini.Resources.resources
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\Panini.dll
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\Panini.xml
+C:\Projetos\Projetos Desenvolvimentos\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1\obj\Debug\Panini.pdb
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\Panini.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\Panini.pdb
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\Panini.xml
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\AjaxControlToolkit.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\AntiXSSLibrary.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\SanitizerProviders.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\Panini.Resources.resources
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\GenerateResource.read.1.tlog
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\GenerateResource.write.1.tlog
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\Panini.dll
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\Panini.xml
+C:\Projetos\desenvolvimento\Panini\Fontes V 1.1 - HOMOLOG - CORRECAO 1.1\obj\Debug\Panini.pdb
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\Panini.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\Panini.pdb
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\Panini.xml
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\AjaxControlToolkit.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\AntiXSSLibrary.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\SanitizerProviders.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.Resources.resources
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.vbproj.GenerateResource.Cache
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.dll
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.xml
+C:\Projetos\desenvolvimento\Panini\Fontes Panini Versão Final\Panini\obj\Debug\Panini.pdb
+C:\Projetos\Desenv\panini_wf_fontes\bin\Panini.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\Panini.pdb
+C:\Projetos\Desenv\panini_wf_fontes\bin\Panini.xml
+C:\Projetos\Desenv\panini_wf_fontes\bin\AjaxControlToolkit.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\AntiXSSLibrary.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\SanitizerProviders.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.vbprojResolveAssemblyReference.cache
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.Resources.resources
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.vbproj.GenerateResource.Cache
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.dll
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.xml
+C:\Projetos\Desenv\panini_wf_fontes\obj\Debug\Panini.pdb
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\Panini.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\Panini.pdb
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\Panini.xml
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\AjaxControlToolkit.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\AntiXSSLibrary.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\SanitizerProviders.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.vbprojResolveAssemblyReference.cache
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.Resources.resources
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.vbproj.GenerateResource.Cache
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.dll
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.xml
+C:\Projetos\Panini\Desenv\panini_wf_fontes\obj\Debug\Panini.pdb
+C:\Projetos\panini\Desenv\fontes\bin\Panini.dll
+C:\Projetos\panini\Desenv\fontes\bin\Panini.pdb
+C:\Projetos\panini\Desenv\fontes\bin\Panini.xml
+C:\Projetos\panini\Desenv\fontes\bin\AjaxControlToolkit.dll
+C:\Projetos\panini\Desenv\fontes\bin\AntiXSSLibrary.dll
+C:\Projetos\panini\Desenv\fontes\bin\HtmlSanitizationLibrary.dll
+C:\Projetos\panini\Desenv\fontes\bin\SanitizerProviders.dll
+C:\Projetos\panini\Desenv\fontes\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.vbproj.ResolveComReference.cache
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.Resources.resources
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.vbproj.GenerateResource.Cache
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.dll
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.xml
+C:\Projetos\panini\Desenv\fontes\obj\Debug\Panini.pdb

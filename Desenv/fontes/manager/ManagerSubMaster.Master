@@ -1,0 +1,29 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ManagerSubMaster.Master.vb" Inherits="Panini.ManagerSubMaster" MasterPageFile="ManagerTopo.Master" %>
+
+ <asp:Content ID="Principal" ContentPlaceHolderID="cMaster" Runat="Server"> 
+    <asp:SiteMapDataSource id="MenuSource" runat="server" />
+    <div class="LinkTopo">
+        <table class="menuManager">
+	        <tr>
+		        <td>&nbsp;</td>
+		        <td align="center" width="40%"><a href="Manager.aspx"> Manutenção Usuário</a></td>
+		        <td align="center"><font color="white"><b>|</b></font></td>
+		        <td align="center" width="40%"><a href="AlterarSenha.aspx">Alterar Senha</a></td>
+		        <td>&nbsp;</td>
+	        </tr>
+        </table>
+    </div>
+    <div class="LinhaDivisoria">
+        <div class="Titulo">
+           <asp:Label runat="server" ID="lblItemMenu" Text=">> HOME" />
+        </div>
+    </div>
+    <div class="main">
+        <div class="TabelaMaior">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+    </div>
+    <div class="LinhaDivisoria3"></div>
+    
+
+</asp:Content>

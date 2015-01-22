@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{EF31ED13-5F71-4113-B64B-454D4BFC7D2D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Panini</RootNamespace>
+    <AssemblyName>Panini</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Panini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PublishDatabaseSettings>
+      <Objects>
+      </Objects>
+    </PublishDatabaseSettings>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>Panini.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>packages\AjaxControlToolkit.4.1.51116\lib\40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AntiXSSLibrary">
+      <HintPath>packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\AntiXSSLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlSanitizationLibrary">
+      <HintPath>packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\HtmlSanitizationLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="SanitizerProviders">
+      <HintPath>packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\SanitizerProviders.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AcessoRestrito.aspx" />
+    <Content Include="CadastroFornecedor.aspx" />
+    <Content Include="CadastroLicenciantes.aspx" />
+    <Content Include="ConsultaPDFS.aspx" />
+    <Content Include="Controles\DateBox.ascx" />
+    <Content Include="DatasCadastro.aspx" />
+    <Content Include="DetalheEdicao.aspx" />
+    <Content Include="EditorialAprovacao.aspx" />
+    <Content Include="EditorialOpcoes.aspx" />
+    <Content Include="Imagens\Amarelo.jpg" />
+    <Content Include="Imagens\APARAS.GIF" />
+    <Content Include="Imagens\Aprovado_fornecedor.gif" />
+    <Content Include="Imagens\apr_fornecedor.gif" />
+    <Content Include="Imagens\carregando3.gif" />
+    <Content Include="Imagens\com_datas_n_aprovacao.gif" />
+    <Content Include="Imagens\dc.jpg" />
+    <Content Include="Imagens\dc.png" />
+    <Content Include="Imagens\diversos.JPG" />
+    <Content Include="Imagens\EDITAR.GIF" />
+    <Content Include="Imagens\editar.png" />
+    <Content Include="Imagens\Editar_dados.gif" />
+    <Content Include="Imagens\editorial.gif" />
+    <Content Include="Imagens\editorial_icone.gif" />
+    <Content Include="Imagens\edt_aprova.gif" />
+    <Content Include="Imagens\edt_dados.gif" />
+    <Content Include="Imagens\edt_n_aprova.gif" />
+    <Content Include="Imagens\excluir.png" />
+    <Content Include="Imagens\logo_todos.gif" />
+    <Content Include="Imagens\marvel.jpg" />
+    <Content Include="Imagens\msp.jpg" />
+    <Content Include="Imagens\nickelodeon.JPG" />
+    <Content Include="Imagens\pixel.png" />
+    <Content Include="Imagens\PLANET_MANGA.jpg" />
+    <Content Include="Imagens\vertigo.jpg" />
+    <Content Include="Imagens\wb.jpg" />
+    <Content Include="Imagens_Perso\CAPITAO AMERICA.gif" />
+    <Content Include="Imagens_Perso\HOMEM DE FERRO.gif" />
+    <Content Include="Imagens_Perso\hulk.gif" />
+    <Content Include="Imagens\l_com_datas_n_aprovacao.gif" />
+    <Content Include="Imagens\L_edt_aprova.gif" />
+    <Content Include="Imagens\l_edt_n_aprova.gif" />
+    <Content Include="Imagens\l_mkt_aprova.gif" />
+    <Content Include="Imagens\l_mkt_n_aprova.gif" />
+    <Content Include="Imagens\l_sem_datas.gif" />
+    <Content Include="Imagens\mkt_aprova.gif" />
+    <Content Include="Imagens\mkt_n_aprova.gif" />
+    <Content Include="Imagens\msp.png" />
+    <Content Include="Imagens\reserva.gif" />
+    <Content Include="Imagens\Reserva.png" />
+    <Content Include="Imagens\semaforo_amarelo.gif" />
+    <Content Include="Imagens\semaforo_verde.gif" />
+    <Content Include="Imagens\semaforo_vermelho.gif" />
+    <Content Include="Imagens\SemImagem.jpg" />
+    <Content Include="Imagens\sem_datas.gif" />
+    <Content Include="Imagens_Perso\Panini_Favicon.ico" />
+    <Content Include="Imagens_Perso\Panini_Favicon_Logo.png" />
+    <Content Include="Imagens_Perso\thor.gif" />
+    <Content Include="Imagens_Perso\todos.gif" />
+    <Content Include="Imagens\Verde.jpg" />
+    <Content Include="Imagens\Vermelho.jpg" />
+    <Content Include="Manager\AlterarSenha.aspx" />
+    <Content Include="Manager\Manager.aspx" />
+    <Content Include="PlanejamentoAltConsulta.aspx" />
+    <Content Include="Scripts\jquery-1.4.3.js" />
+    <Content Include="Scripts\Panini.js" />
+    <Content Include="Styles\GridView.css" />
+    <Content Include="Styles\link.gif" />
+    <Content Include="Styles\UserControls.css" />
+    <Content Include="Imagens\Excel.gif" />
+    <Content Include="Imagens\Semafaro.gif" />
+    <Content Include="ReservaConsulta.aspx" />
+    <Content Include="CadastroPDFS.aspx" />
+    <Content Include="PlanejamentoCadastro.aspx" />
+    <Content Include="PlanejamentoConsulta.aspx" />
+    <Content Include="Controles\Mensagem.ascx" />
+    <Content Include="Controles\NumberBox.ascx" />
+    <Content Include="MercadoCadastro.aspx" />
+    <Content Include="EsqueciSenha.aspx" />
+    <Content Include="Styles\aguarde.gif" />
+    <Content Include="Styles\alerta.png" />
+    <Content Include="Styles\erro.png" />
+    <Content Include="Styles\informacao.png" />
+    <Content Include="Styles\pixel.png" />
+    <Content Include="MercadoConsulta.aspx" />
+    <Content Include="ReservaCadastro.aspx" />
+    <Content Include="UploadPDFS.aspx" />
+    <Content Include="Imagens\botao.jpg" />
+    <Content Include="Imagens\link.gif" />
+    <Content Include="Imagens\logo.gif" />
+    <Content Include="Imagens\logo.PNG" />
+    <Content Include="Imagens\Manager.jpg" />
+    <Content Include="Imagens\manager_.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="RelatorioConsulta.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="UploadPlan.aspx" />
+    <Content Include="Upload\SemImagem.jpg" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AcessoRestrito.aspx.designer.vb">
+      <DependentUpon>AcessoRestrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AcessoRestrito.aspx.vb">
+      <DependentUpon>AcessoRestrito.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CadastroFornecedor.aspx.designer.vb">
+      <DependentUpon>CadastroFornecedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroFornecedor.aspx.vb">
+      <DependentUpon>CadastroFornecedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroLicenciantes.aspx.designer.vb">
+      <DependentUpon>CadastroLicenciantes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroLicenciantes.aspx.vb">
+      <DependentUpon>CadastroLicenciantes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Classes\BaseWebUI .vb">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Classes\Cadastro.vb" />
+    <Compile Include="Classes\Editorial.vb" />
+    <Compile Include="Classes\Mercado.vb" />
+    <Compile Include="Classes\Planejamento.vb" />
+    <Compile Include="Classes\Relatorio.vb" />
+    <Compile Include="Classes\Reserva.vb" />
+    <Compile Include="ConsultaPDFS.aspx.designer.vb">
+      <DependentUpon>ConsultaPDFS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPDFS.aspx.vb">
+      <DependentUpon>ConsultaPDFS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controles\DateBox.ascx.designer.vb">
+      <DependentUpon>DateBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\DateBox.ascx.vb">
+      <DependentUpon>DateBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Classes\Data.vb" />
+    <Compile Include="DatasCadastro.aspx.designer.vb">
+      <DependentUpon>DatasCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DatasCadastro.aspx.vb">
+      <DependentUpon>DatasCadastro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DetalheEdicao.aspx.designer.vb">
+      <DependentUpon>DetalheEdicao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheEdicao.aspx.vb">
+      <DependentUpon>DetalheEdicao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialAprovacao.aspx.designer.vb">
+      <DependentUpon>EditorialAprovacao.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditorialAprovacao.aspx.vb">
+      <DependentUpon>EditorialAprovacao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditorialOpcoes.aspx.designer.vb">
+      <DependentUpon>EditorialOpcoes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditorialOpcoes.aspx.vb">
+      <DependentUpon>EditorialOpcoes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Manager\AlterarSenha.aspx.designer.vb">
+      <DependentUpon>AlterarSenha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\AlterarSenha.aspx.vb">
+      <DependentUpon>AlterarSenha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\Manager.aspx.designer.vb">
+      <DependentUpon>Manager.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\Manager.aspx.vb">
+      <DependentUpon>Manager.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\ManagerSubMaster.Master.designer.vb">
+      <DependentUpon>ManagerSubMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\ManagerSubMaster.Master.vb">
+      <DependentUpon>ManagerSubMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Manager\ManagerTopo.Master.designer.vb">
+      <DependentUpon>ManagerTopo.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\ManagerTopo.Master.vb">
+      <DependentUpon>ManagerTopo.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PlanejamentoAltConsulta.aspx.designer.vb">
+      <DependentUpon>PlanejamentoAltConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanejamentoAltConsulta.aspx.vb">
+      <DependentUpon>PlanejamentoAltConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ReservaConsulta.aspx.designer.vb">
+      <DependentUpon>ReservaConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReservaConsulta.aspx.vb">
+      <DependentUpon>ReservaConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CadastroPDFS.aspx.designer.vb">
+      <DependentUpon>CadastroPDFS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroPDFS.aspx.vb">
+      <DependentUpon>CadastroPDFS.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanejamentoCadastro.aspx.designer.vb">
+      <DependentUpon>PlanejamentoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanejamentoCadastro.aspx.vb">
+      <DependentUpon>PlanejamentoCadastro.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="PlanejamentoConsulta.aspx.designer.vb">
+      <DependentUpon>PlanejamentoConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PlanejamentoConsulta.aspx.vb">
+      <DependentUpon>PlanejamentoConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Classes\ctlEmail.vb" />
+    <Compile Include="Classes\RetornoGenerico.vb" />
+    <Compile Include="Controles\Mensagem.ascx.designer.vb">
+      <DependentUpon>Mensagem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\Mensagem.ascx.vb">
+      <DependentUpon>Mensagem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controles\NumberBox.ascx.designer.vb">
+      <DependentUpon>NumberBox.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\NumberBox.ascx.vb">
+      <DependentUpon>NumberBox.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MercadoCadastro.aspx.designer.vb">
+      <DependentUpon>MercadoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MercadoCadastro.aspx.vb">
+      <DependentUpon>MercadoCadastro.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="EsqueciSenha.aspx.designer.vb">
+      <DependentUpon>EsqueciSenha.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EsqueciSenha.aspx.vb">
+      <DependentUpon>EsqueciSenha.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MercadoConsulta.aspx.designer.vb">
+      <DependentUpon>MercadoConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MercadoConsulta.aspx.vb">
+      <DependentUpon>MercadoConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ReservaCadastro.aspx.designer.vb">
+      <DependentUpon>ReservaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReservaCadastro.aspx.vb">
+      <DependentUpon>ReservaCadastro.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadPDFS.aspx.designer.vb">
+      <DependentUpon>UploadPDFS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadPDFS.aspx.vb">
+      <DependentUpon>UploadPDFS.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Classes\PDFS.vb" />
+    <Compile Include="Classes\Usuario.vb" />
+    <Compile Include="Classes\Util.vb" />
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.designer.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.vb">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RelatorioConsulta.aspx.designer.vb">
+      <DependentUpon>RelatorioConsulta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RelatorioConsulta.aspx.vb">
+      <DependentUpon>RelatorioConsulta.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SubMaster.Master.designer.vb">
+      <DependentUpon>SubMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SubMaster.Master.vb">
+      <DependentUpon>SubMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Topo.Master.designer.vb">
+      <DependentUpon>Topo.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Topo.Master.vb">
+      <DependentUpon>Topo.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadPlan.aspx.designer.vb">
+      <DependentUpon>UploadPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadPlan.aspx.vb">
+      <DependentUpon>UploadPlan.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Manager\ManagerSubMaster.Master" />
+    <Content Include="Manager\ManagerTopo.Master" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="SubMaster.Master" />
+    <Content Include="Topo.Master" />
+    <Content Include="packages.config" />
+    <Content Include="Web.sitemap">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Styles\Css\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2268</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,40 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SubMaster.Master.vb"
+    Inherits="Panini.SubMaster" MasterPageFile="Topo.Master" %>
+
+<asp:Content ID="Principal" ContentPlaceHolderID="cMaster" runat="Server">
+    <asp:SiteMapDataSource ID="MenuSource" runat="server" />
+    <div class="LinkTopo">
+        <asp:Menu ID="NavigationMenu" CssClass="menu" StaticDisplayLevels="2" DynamicHorizontalOffset="1"
+            StaticSubMenuIndent="1px" MaximumDynamicDisplayLevels="4" Orientation="Horizontal"
+            DynamicPopOutImageUrl="" StaticPopOutImageUrl="" DataSourceID="MenuSource" runat="server"
+            Height="30px">
+            <StaticMenuItemStyle ItemSpacing="10" CssClass="staticMenuItemStyle" />
+            <StaticHoverStyle CssClass="staticHoverStyle" />
+            <StaticSelectedStyle CssClass="staticMenuItemSelectedStyle" />
+            <DynamicMenuItemStyle CssClass="dynamicMenuItemStyle" />
+            <DynamicHoverStyle CssClass="menuItemMouseOver" />
+            <DynamicMenuStyle CssClass="menuItem" />
+            <DynamicSelectedStyle CssClass="menuItemSelected" />
+            <DataBindings>
+                <asp:MenuItemBinding DataMember="siteMapNode" NavigateUrlField="url" TextField="title"
+                    ToolTipField="description" />
+            </DataBindings>
+        </asp:Menu>
+    </div>
+    <div class="LinhaDivisoria">
+        <div class="Titulo">
+            <asp:SiteMapPath ID="SiteMapPath1" runat="server" RenderCurrentNodeAsLink="true"
+                PathSeparator=" >> ">
+                <PathSeparatorStyle ForeColor="#FEE902" CssClass="currentNodeStyle" />
+                <CurrentNodeStyle ForeColor="#FEE902" CssClass="currentNodeStyle" />
+                <NodeStyle ForeColor="#FEE902" CssClass="currentNodeStyle" />
+                <RootNodeStyle ForeColor="#fff" CssClass="currentNodeStyle" />
+            </asp:SiteMapPath>
+        </div>
+    </div>
+    <div class="main">
+        <div class="TabelaMaior">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+    </div>
+</asp:Content>

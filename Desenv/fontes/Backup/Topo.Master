@@ -1,0 +1,58 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Topo.master.vb" Inherits="Panini.Topo"
+    Explicit="true" Strict="true" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="Head1" runat="server" profile="http://www.w3.org/2005/10/profile" >
+    <link rel="icon" type="image/png" href="Imagens_Perso/Panini_Favicon_Logo.png" />
+    <link rel="shortcut icon" href="Imagens_Perso/Panini_Favicon.ico" />
+
+    <title>PW - Panini Workflow</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/UserControls.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/GridView.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <script src="Scripts/Panini.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="frmPrincipal" runat="server" method="post">
+    <cc1:ToolkitScriptManager ID="oScriptManager" runat="server" EnableScriptGlobalization="True">
+    </cc1:ToolkitScriptManager>
+    <center>
+        <div class="Topo">
+            <table class="TabelaTopo" border="0">
+                <tr>
+                    <td width="10%">
+                        <asp:HyperLink ID="lknHome" runat="server" ImageUrl="imagens/logo.gif" NavigateUrl="RelatorioConsulta.aspx"
+                            Text="Home" ToolTip="Home" CssClass="imgManager" />
+                    </td>
+                    <td align="left" width="50%">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label Font-Size="Medium" ID="lblNomeTopo" runat="server" />
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="manager/Manager.aspx">
+                            <img alt="Acesso ao manager" src="imagens/manager_.gif" id="imgManager" class="imgManager"
+                                runat="server" title="Acesso ao manager" visible="false" />
+                        </a>
+                    </td>
+                    <td align="right" width="40%">
+                        Bem Vindo ao PW - Panini Workflow&nbsp;&nbsp;<asp:LoginStatus ID="objLogout" LogoutAction="RedirectToLoginPage"
+                            runat="server" LoginText="" LogoutText="|&nbsp;&nbsp;Sair" CssClass="Logout" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="clear">
+        </div>
+        <asp:ContentPlaceHolder ID="cMaster" runat="server">
+        </asp:ContentPlaceHolder>
+    </center>
+    <div class="clear LinhaDivisoria3">
+    </div>
+    </form>
+</body>
+</html>

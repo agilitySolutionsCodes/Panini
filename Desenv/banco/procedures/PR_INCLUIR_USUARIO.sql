@@ -1,0 +1,119 @@
+/****** Object:  StoredProcedure [dbo].[PR_INCLUIR_USUARIO]    Script Date: 07/06/2012 10:36:54 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+-- =========================================================================      
+-- Autor:   Juliana B. - Agility Solutions      
+-- Data Criacao:  18/01/2012      
+-- Descrição:  Incluir / Alterar usuario   
+-- NÚMERO DATA        USUÁRIO   DESCRIÇÃO      
+-- #001#  
+-- =========================================================================      
+
+ALTER PROCEDURE [dbo].[PR_INCLUIR_USUARIO]      
+(     
+ @P_CODIGO INTEGER,         
+ @P_EMAIL VARCHAR(40),
+ @P_SENHA VARCHAR(25) = null,
+ @P_DEPTO VARCHAR(20),
+ @P_RAMAL VARCHAR(5),
+ @P_NOME VARCHAR(80),
+ @P_CODTELA VARCHAR(200),
+ @P_VISUALIZAR VARCHAR(200),
+ @P_INCLUIR VARCHAR(200),
+ @P_ALTERAR VARCHAR(200),
+ @P_EXCLUIR VARCHAR(200),
+ @P_APROVAR VARCHAR(200),
+ @P_REPROVAR VARCHAR(200),
+ @P_MKT VARCHAR(200),
+ @P_EDITORIAL VARCHAR(200),
+ @P_FORNECEDOR VARCHAR(200),
+ @RETORNO BIT = NULL OUTPUT,
+ @MSGRETORNO VARCHAR(50) = NULL OUTPUT
+)      
+AS      
+BEGIN      
+SET NOCOUNT ON
+	
+	DECLARE @CODUSUARIO INT,
+	 @CODTELA INT,
+	 @VISUALIZAR VARCHAR(1),
+	 @INCLUIR VARCHAR(1),
+	 @ALTERAR VARCHAR(1),
+	 @EXCLUIR VARCHAR(1),
+	 @APROVAR VARCHAR(1),
+	 @REPROVAR VARCHAR(1),
+	 @MKT VARCHAR(1),
+	 @EDITORIAL VARCHAR(1),
+	 @FORNECEDOR VARCHAR(1),
+	 @PERMISSOES VARCHAR(20)
+
+   
+	SET @RETORNO = 'TRUE'
+	SET @MSGRETORNO = '' 
+	If(SELECT COUNT(*) FROM USUARIOS (NOLOCK) WHERE codigo = @P_CODIGO) = 0 BEGIN
+		If(SELECT COUNT(*) FROM USUARIOS (NOLOCK) WHERE email = @P_EMAIL) = 0 BEGIN
+			INSERT INTO USUARIOS (email, senha, departamento, ramal, nome) 
+			VALUES(@P_EMAIL, @P_SENHA, @P_DEPTO, @P_RAMAL, @P_NOME)
+			
+			
+			SELECT @CODUSUARIO = @@identity
+			
+			
+		END
+		ELSE BEGIN
+			SET @RETORNO = 'FALSE'
+			SET @MSGRETORNO = 'Este login já existe no cadastro.' 
+		END
+	END
+	ELSE
+	BEGIN
+		UPDATE USUARIOS SET email = @P_EMAIL, departamento = @P_DEPTO, ramal = @P_RAMAL, nome = @P_NOME 
+		WHERE codigo = @P_CODIGO
+		
+		SET @CODUSUARIO = @P_CODIGO
+		-- APAGA AS PERMISSOES DO USUARIO PARA REGRAVAR TUDO
+		DELETE FROM PERMISSOES_USUARIOS WHERE cod_usuario = @P_CODIGO
+	END
+	
+	
+	-- GRAVAR PERMISSOES
+	WHILE charindex(';', @P_CODTELA) > 0 BEGIN
+
+		SET @CODTELA = LEFT(@P_CODTELA, charindex(';', @P_CODTELA)-1)
+		SET @P_CODTELA = SUBSTRING(@P_CODTELA, charindex(';', @P_CODTELA)+1, LEN(@P_CODTELA))
+		SET @VISUALIZAR = LEFT(@P_VISUALIZAR, charindex(';', @P_VISUALIZAR)-1)
+		SET @P_VISUALIZAR = SUBSTRING(@P_VISUALIZAR, charindex(';', @P_VISUALIZAR)+1, LEN(@P_VISUALIZAR))
+		SET @INCLUIR = LEFT(@P_INCLUIR, charindex(';', @P_INCLUIR)-1)
+		SET @P_INCLUIR = SUBSTRING(@P_INCLUIR, charindex(';', @P_INCLUIR)+1, LEN(@P_INCLUIR))
+		SET @ALTERAR = LEFT(@P_ALTERAR, charindex(';', @P_ALTERAR)-1)
+		SET @P_ALTERAR = SUBSTRING(@P_ALTERAR, charindex(';', @P_ALTERAR)+1, LEN(@P_ALTERAR))
+		SET @EXCLUIR = LEFT(@P_EXCLUIR, charindex(';', @P_EXCLUIR)-1)
+		SET @P_EXCLUIR = SUBSTRING(@P_EXCLUIR, charindex(';', @P_EXCLUIR)+1, LEN(@P_EXCLUIR))
+		SET @APROVAR = LEFT(@P_APROVAR, charindex(';', @P_APROVAR)-1)
+		SET @P_APROVAR = SUBSTRING(@P_APROVAR, charindex(';', @P_APROVAR)+1, LEN(@P_APROVAR))
+		SET @REPROVAR = LEFT(@P_REPROVAR, charindex(';', @P_REPROVAR)-1)
+		SET @P_REPROVAR = SUBSTRING(@P_REPROVAR, charindex(';', @P_REPROVAR)+1, LEN(@P_REPROVAR))
+		SET @MKT = LEFT(@P_MKT, charindex(';', @P_MKT)-1)
+		SET @P_MKT = SUBSTRING(@P_MKT, charindex(';', @P_MKT)+1, LEN(@P_MKT))
+		SET @EDITORIAL = LEFT(@P_EDITORIAL, charindex(';', @P_EDITORIAL)-1)
+		SET @P_EDITORIAL = SUBSTRING(@P_EDITORIAL, charindex(';', @P_EDITORIAL)+1, LEN(@P_EDITORIAL))
+		SET @FORNECEDOR = LEFT(@P_FORNECEDOR, charindex(';', @P_FORNECEDOR)-1)
+		SET @P_FORNECEDOR = SUBSTRING(@P_FORNECEDOR, charindex(';', @P_FORNECEDOR)+1, LEN(@P_FORNECEDOR))
+		
+		SET @PERMISSOES = @VISUALIZAR + ';' + @INCLUIR + ';' + @ALTERAR + ';' + @EXCLUIR + ';' + @APROVAR + ';' + @REPROVAR + ';' + @MKT + ';' + @EDITORIAL + ';' + @FORNECEDOR
+		INSERT INTO PERMISSOES_USUARIOS(cod_usuario, cod_tela, permissao)
+		VALUES(@CODUSUARIO, @CODTELA, @PERMISSOES)
+	END
+			
+			
+END      
+SET NOCOUNT OFF 
+
+GO
+
+
